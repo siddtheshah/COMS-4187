@@ -1,0 +1,6 @@
+break * echo+39
+run < in.txt
+i r
+x/50x $esp
+n
+x/50x $esp

@@ -1,0 +1,11 @@
+AES128 Encrypt Time: 0.0008223
+AES128 Decrypt Time: 0.0004121
+SHA256 1e2 Bytes Hash Time: 0.0013779
+SHA256 1e3 Bytes Hash Time: 0.0073838
+SHA256 1e4 Bytes Hash Time: 0.0700748
+SHA256 1e5 Bytes Hash Time: 0.7017968
+SHA256 1e6 Bytes Hash Time: 7.0244408
+RSA256 1024b-key Encrypt Time: 0.0228231
+RSA256 1024b-key Decrypt Time: 0.1585003
+RSA256 2048b-key Encrypt Time: 0.0410398
+RSA256 2048b-key Decrypt Time: 1.0078863

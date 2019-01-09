@@ -1,0 +1,114 @@
+Start-Date: 2018-11-20  23:42:40
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:42:46
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:42:52
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:42:56
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:43:04
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:43:14
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:43:20
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:43:25
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:43:40
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:43:46
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:43:53
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:43:59
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:44:25
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:44:29
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:44:33
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:44:46
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-20  23:44:59
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-21  14:34:08
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-21  14:34:15
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-22  11:54:47
+Commandline: apt install apache2
+Start-Date: 2018-11-23  10:39:12
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-23  10:39:24
+Commandline: /usr/bin/unattended-upgrade
+Start-Date: 2018-11-23  10:47:00
+Commandline: apt install phpmyadmin
+Start-Date: 2018-11-23  10:50:10
+Commandline: apt install mysql-server
+Start-Date: 2018-11-23  11:04:55
+Commandline: apt remove phpmyadmin
+Start-Date: 2018-11-23  11:05:30
+Commandline: apt remove mysql-server
+Start-Date: 2018-11-23  11:06:20
+Commandline: apt install mysql-server
+Start-Date: 2018-11-23  11:10:44
+Commandline: apt remove --purge mysql*
+Start-Date: 2018-11-23  11:11:48
+Commandline: apt autoremove
+Start-Date: 2018-11-23  11:16:36
+Commandline: apt dist-upgrade
+Start-Date: 2018-11-23  11:22:41
+Commandline: apt install mysql-server
+Start-Date: 2018-11-23  11:36:42
+Commandline: apt install php
+Start-Date: 2018-11-23  11:38:58
+Commandline: apt install php-mysql
+Start-Date: 2018-11-23  11:41:47
+Commandline: apt install php-pear
+Start-Date: 2018-11-23  11:42:20
+Commandline: apt install php-pear php-fpm php-dev php-zip php-curl php-xmlrpc php-gd php-mysql php-mbstring php-xml libapache2-mod-php
+Start-Date: 2018-11-23  11:54:12
+Commandline: apt remove mysql*
+Start-Date: 2018-11-23  11:54:36
+Commandline: apt purge mysql*
+Start-Date: 2018-11-23  11:54:54
+Commandline: apt autoremove
+Start-Date: 2018-11-23  11:55:55
+Commandline: apt install mysql-server
+Start-Date: 2018-11-23  12:08:35
+Commandline: apt-get remove --purge mysql*
+Start-Date: 2018-11-23  12:09:13
+Commandline: apt-get autoremove
+Start-Date: 2018-11-23  12:09:52
+Commandline: apt-get install mysql-server
+Start-Date: 2018-11-23  12:20:19
+Commandline: apt install --reinstall mysql-server
+Start-Date: 2018-11-23  12:22:49
+Commandline: apt-get remove --purge mysql*
+Start-Date: 2018-11-23  12:23:19
+Commandline: apt-get autoremove
+Start-Date: 2018-11-23  12:23:44
+Commandline: apt-get install mysql-server
+Start-Date: 2018-11-23  12:56:40
+Commandline: apt-get remove --purge mysql* -y
+Start-Date: 2018-11-23  12:57:04
+Commandline: apt-get autoremove -y
+Start-Date: 2018-11-23  12:57:39
+Commandline: apt-get install mysql-server -y
+Start-Date: 2018-11-23  14:52:11
+Commandline: apt remove --purge php*
+Start-Date: 2018-11-23  14:52:34
+Commandline: apt remove --purge mysql* -y
+Start-Date: 2018-11-23  14:52:46
+Commandline: apt autoremove -y
+Start-Date: 2018-11-23  14:52:54
+Commandline: apt install mysql-server -y
+Start-Date: 2018-11-23  14:55:07
+Commandline: apt install php
+Start-Date: 2018-11-23  14:56:02
+Commandline: apt install php-pear
+Start-Date: 2018-11-23  14:57:19
+Commandline: apt install php-pear php-fpm php-dev php-zip php-curl php-xmlrpc php-gd php-mysql php-mbstring php-xml libapache2-mod-php
+Start-Date: 2018-11-24  00:54:21
+Commandline: apt install wireshark

